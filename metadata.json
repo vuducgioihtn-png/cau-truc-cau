@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Reflex - Đặc Vụ Cấu Trúc Câu & Từ Loại",
+  "description": "Ứng dụng luyện phản xạ trực quan cấu trúc câu tiếng Anh (S-V-O, O vs C, Tân ngữ kép) và thuật toán từ loại 3 giây với 200 câu ngữ pháp (Tập 1 & Tập 2 Phần 2) và giải phẫu chi tiết từng từ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
